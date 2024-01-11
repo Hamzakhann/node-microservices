@@ -6,7 +6,7 @@ import {
   NotFoundError,
   OrderStatus,
   BadRequestError,
-} from '@hireinhours/auth-middleware';
+} from '@rallycoding/common';
 import { body } from 'express-validator';
 import { Ticket } from '../models/ticket';
 import { Order } from '../models/order';

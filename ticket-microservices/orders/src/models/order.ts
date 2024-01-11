@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import { OrderStatus } from '@hireinhours/auth-middleware';
+import { OrderStatus } from '@rallycoding/common';
 import { TicketDoc } from './ticket';
 export { OrderStatus };
 
